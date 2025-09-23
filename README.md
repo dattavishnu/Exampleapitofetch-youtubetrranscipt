@@ -1,3 +1,4 @@
-###Example api to fetch youtube trans script in python
-    This is a example to fetch transcript from youtube
+##Example api to fetch youtube transscript in python
+
+This is a example to fetch transcript from youtube
 
